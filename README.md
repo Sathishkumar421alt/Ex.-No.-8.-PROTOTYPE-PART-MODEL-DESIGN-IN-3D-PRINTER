@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![EMPD 3D PROTOTYPE](https://github.com/user-attachments/assets/4c9fcda9-277b-41b9-85ef-90a493abe1c1)
 
-### Name:
-### Register Number:
+### Name:SATHISH KUMAR.T 
+### Register Number:24900758
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
